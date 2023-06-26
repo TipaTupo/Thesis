@@ -1,0 +1,17 @@
+D:\ДИПЛОМ\Thesis_Ermolaev_IT1822\Thesis_Ermolaev_IT1822\bin\Debug\Thesis_Ermolaev_IT1822.exe.config
+D:\ДИПЛОМ\Thesis_Ermolaev_IT1822\Thesis_Ermolaev_IT1822\bin\Debug\Thesis_Ermolaev_IT1822.exe
+D:\ДИПЛОМ\Thesis_Ermolaev_IT1822\Thesis_Ermolaev_IT1822\bin\Debug\Thesis_Ermolaev_IT1822.pdb
+D:\ДИПЛОМ\Thesis_Ermolaev_IT1822\Thesis_Ermolaev_IT1822\obj\Debug\Thesis_Ermolaev_IT1822.csprojAssemblyReference.cache
+D:\ДИПЛОМ\Thesis_Ermolaev_IT1822\Thesis_Ermolaev_IT1822\obj\Debug\Thesis_Ermolaev_IT1822.Properties.Resources.resources
+D:\ДИПЛОМ\Thesis_Ermolaev_IT1822\Thesis_Ermolaev_IT1822\obj\Debug\Thesis_Ermolaev_IT1822.csproj.GenerateResource.cache
+D:\ДИПЛОМ\Thesis_Ermolaev_IT1822\Thesis_Ermolaev_IT1822\obj\Debug\Thesis_Ermolaev_IT1822.csproj.CoreCompileInputs.cache
+D:\ДИПЛОМ\Thesis_Ermolaev_IT1822\Thesis_Ermolaev_IT1822\obj\Debug\Thesis_Ermolaev_IT1822.exe
+D:\ДИПЛОМ\Thesis_Ermolaev_IT1822\Thesis_Ermolaev_IT1822\obj\Debug\Thesis_Ermolaev_IT1822.pdb
+D:\ДИПЛОМ\Thesis_Ermolaev_IT1822\Thesis_Ermolaev_IT1822\obj\Debug\Thesis_Ermolaev_IT1822.FormMenu.resources
+D:\ДИПЛОМ\Thesis_Ermolaev_IT1822\Thesis_Ermolaev_IT1822\obj\Debug\Thesis_Ermolaev_IT1822.Forms.FormSuppliers.resources
+D:\ДИПЛОМ\Thesis_Ermolaev_IT1822\Thesis_Ermolaev_IT1822\obj\Debug\Thesis_Ermolaev_IT1822.Forms.FormSupCategories.resources
+D:\ДИПЛОМ\Thesis_Ermolaev_IT1822\Thesis_Ermolaev_IT1822\obj\Debug\Thesis_Ermolaev_IT1822.Forms.FormAvailableFood.resources
+D:\ДИПЛОМ\Thesis_Ermolaev_IT1822\Thesis_Ermolaev_IT1822\obj\Debug\Thesis_Ermolaev_IT1822.Forms.FormExpiredFood.resources
+D:\ДИПЛОМ\Thesis_Ermolaev_IT1822\Thesis_Ermolaev_IT1822\obj\Debug\Thesis_Ermolaev_IT1822.Forms.FormFoodIn.resources
+D:\ДИПЛОМ\Thesis_Ermolaev_IT1822\Thesis_Ermolaev_IT1822\obj\Debug\Thesis_Ermolaev_IT1822.Forms.FormFoodOut.resources
+D:\ДИПЛОМ\Thesis_Ermolaev_IT1822\Thesis_Ermolaev_IT1822\bin\Debug\DB_Thesis_Ermolaev.mdb
